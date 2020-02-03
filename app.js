@@ -9,5 +9,9 @@ function multiplication(num){
 }
 function multiplicationTable(){
   var x = document.getElementById("num").value;
-  multiplication(x);
+  if(x==0){
+    alert("Please Enter a Valid Number.");
+  }else{
+    multiplication(x);
+  }
 }
