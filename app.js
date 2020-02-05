@@ -8,7 +8,7 @@ function multiplication(num){
   }
 }
 function multiplicationTable(){
-  var x = document.getElementById("num").value;
+  let x = document.getElementById("num").value;
   if(x==0){
     alert("Please Enter a Valid Number.");
   }else{
