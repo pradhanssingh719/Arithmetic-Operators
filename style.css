@@ -6,6 +6,10 @@ h2 {
   font-family: cursive;
   font-weight: bold;
 }
+h3{
+  text-align: left;
+  color: green;
+}
 tr{
   text-align: center;
 }
