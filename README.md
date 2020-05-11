@@ -1,2 +1,1 @@
-# Arithmetic-Operators
-Addition, subtraction, multiplication, division, 
+Multiplication
