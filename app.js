@@ -10,7 +10,7 @@ function multiplication(num){
 function multiplicationTable(){
   let x = document.getElementById("num").value;
   if(x==0){
-    alert("Please Enter a Valid Number.");
+    alert("Please Enter a Valid Number.");  
   }else{
     multiplication(x);
   }
